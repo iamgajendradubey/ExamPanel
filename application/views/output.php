@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        this is your pannel
+        this is your pannel....
     </h1>
 </body>
 </html>
