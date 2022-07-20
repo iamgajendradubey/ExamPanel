@@ -13,7 +13,7 @@ require APPPATH . 'libraries/Format.php';
 // use chriskacerguis\RestServer\RestController;
 use chriskacerguis\RestServer\RestController;
 
-class Demo extends RestController
+class Responsibility extends RestController
 {
 // 	public function __construct($config = 'rest')
 // {
